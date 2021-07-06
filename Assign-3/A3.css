@@ -1,0 +1,32 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.M1{
+height:300px;
+width:100%;
+background-color: gray;
+justify-content: space-around;
+align-items: center;
+display:flex;
+margin-top: 30px;
+}
+.m1{
+  height:200px;
+  width:15%;
+  background-color: red;
+}
+.M2{
+  height:300px;
+  width:100%;
+  background-color:black;
+  margin-top: 50px;
+}
+.m2{
+  height:200px;
+  width:20%;
+  background-color:gray;
+  display:inline-block;
+  margin-left:4%;
+  margin-top: 50px;
+}
